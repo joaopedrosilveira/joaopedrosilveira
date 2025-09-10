@@ -7,8 +7,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="JP-Js" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-  <img align="center" alt="JP-HTML" height="30" width="40" src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg">
+  <img align="center" alt="JP-Js" height="60" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="JP-HTML" height="60" width="60" src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg">
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
