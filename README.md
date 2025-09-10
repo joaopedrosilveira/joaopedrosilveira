@@ -10,7 +10,7 @@
   <img align="center" alt="JP-Sql-Server" height="60" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="JP-Oracle" height="60" width="60" src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg">
   <img align="center" alt="JP-Python" height="30" width="40" src="https://www.svgrepo.com/show/448266/aws.svg">
-  <img align="center" alt="JP-Postgres" height="45" width="45" src="https://www.svgrepo.com/show/354200/postgresql.svg">
+  <img align="center" alt="JP-Postgres" height="45" width="45" src="https://www.svgrepo.com/show/372927/postgresql.svg">
   <img align="center" alt="JP-Postgres" height="45" width="45" src="https://www.svgrepo.com/show/354037/mariadb-icon.svg">
 
   
