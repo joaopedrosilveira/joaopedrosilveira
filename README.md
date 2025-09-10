@@ -7,7 +7,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="JP-Js" height="30" width="40" src="https://www.flaticon.com/free-icon/sql-server_5968364?term=sql+server&page=1&position=1&origin=search&related_id=5968364">
+  <img align="center" alt="JP-Js" height="30" width="40" src="microsoft-sql-server-logo-svgrepo-com">
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
