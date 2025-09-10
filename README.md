@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c50f1024-8922-40df-8229-b419948e40ac" />## Github DBA - João Pedro Silveira
+## Github DBA - João Pedro Silveira
 
 <div align="center">
   <a href="https://github.com/joaopedrosilveira">
